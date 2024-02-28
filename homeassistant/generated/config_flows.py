@@ -145,6 +145,7 @@ FLOWS = {
         "emulated_roku",
         "energyzero",
         "enocean",
+        "enocean_new",
         "enphase_envoy",
         "environment_canada",
         "epion",

@@ -366,6 +366,7 @@ build.json @home-assistant/supervisor
 /homeassistant/components/enigma2/ @autinerd
 /homeassistant/components/enocean/ @bdurrer
 /tests/components/enocean/ @bdurrer
+/homeassistant/components/enocean_new/ @BoouM
 /homeassistant/components/enphase_envoy/ @bdraco @cgarwood @dgomes @joostlek @catsmanac
 /tests/components/enphase_envoy/ @bdraco @cgarwood @dgomes @joostlek @catsmanac
 /homeassistant/components/entur_public_transport/ @hfurubotten

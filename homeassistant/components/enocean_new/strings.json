@@ -1,0 +1,12 @@
+{
+  "config": {
+    "flow_title": "{name}",
+    "step": {
+      "manual": {
+        "data": {
+          "url": "[%key:common::config_flow::data::url%]"
+        }
+      }
+    }
+  }
+}
